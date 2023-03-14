@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kofilolx
+- 👋 Hi, I’m @jonathan_NII
 - 👀 I’m interested in AI, ML and Cyber security.
 - 🌱 I’m currently learning python and c++.
 - 💞️ I’m looking to collaborate on any machine learning project to observe how its being carried out.
