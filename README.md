@@ -6,7 +6,7 @@
 - 👀 I’m interested in AI, ML and Cyber security.
 - 🌱 I’m currently learning AI, ML and Cybersecurity
 - 💞️ I am seeking opportunities to participate in machine learning projects as a collaborator, with the aim of           observing how they are executed.
-- 📫 How to reach me:kofilolx@mail.com | wickstudioz@yahho.com
+- 📫 How to reach me:kofilolx@mail.com | wickstudioz@yahoo.com
 
 
 <!---
