@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+there+%F0%9F%91%8B;Hey%2C+I'm+Jonathan!+Nice+to+see+you.)](https://git.io/typing-svg)
-
 #### Software Engineering student at ALX by night ☾. 
 #### I experiment by creating and destroying things in this place.🐱‍👤
 
