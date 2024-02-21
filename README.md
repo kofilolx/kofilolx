@@ -16,8 +16,9 @@
     <a href="https://discord.com/users/kofilolx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>
 </div>
 <div align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kofilolx&theme=github_dark" alt="KOTEY Jonatha's GitHub Stats"/>
-</div>
+    <a href="http://www.github.com/kofilolx"><img src="https://github-readme-stats.vercel.app/api?username=kofilolx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="kofilolx's GitHub stats" /></a>
+
+<a href="http://www.github.com/kofilolx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kofilolx&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <!---
