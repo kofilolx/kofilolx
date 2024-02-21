@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
-<div align="center">
+<div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kofilolx&theme=github_dark" alt="KOTEY Jonatha's GitHub Stats"/>
 </div>
 
