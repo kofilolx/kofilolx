@@ -8,12 +8,11 @@
 - 🥅 2023-24 Goals: Learn more about web3 | data analytics | UX/UI
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/wickstudioz_gh#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/wickstudioz_gh#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jnkotey#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jnkotey#gh-dark-mode-only)
-&nbsp;&nbsp;
+<div align="left">
+    <a href="https://www.linkedin.com/in/jnkotey/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
 
 
 <!---
