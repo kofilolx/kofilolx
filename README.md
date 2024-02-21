@@ -15,6 +15,9 @@
     <a href="https://www.x.com/wickstudioz_gh">
         <img src="https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=x&logoColor=black" alt="Twitter"/>
     </a>
+    <a href="https://discord.com/">
+        <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=black&style=for-the-badge"/>
+    </a>
 </div>
 <div align="left">
     <a href="http://www.github.com/kofilolx"><img src="https://github-readme-stats.vercel.app/api?username=kofilolx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="kofilolx's GitHub stats" /></a>
