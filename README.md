@@ -1,23 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+there+%F0%9F%91%8B;Hey%2C+I'm+Jonathan!+Nice+to+see+you.)](https://git.io/typing-svg)
-#### Software Engineering student at ALX by night ☾. 
+#### Software Engineering by night ☾. 
 #### I experiment by creating and destroying things in this place.🐱‍👤
 
 - 🔭 I’m currently working on something cool 😉
-- 👀 I’m interested in AI, ML and Cybersecurity.
+- 👀 I’m interested in DevOps | Network Automation | Cybersecurity | Quantum Physics.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023-24 Goals: Learn more about web3 | data analytics | UX/UI
+- 🥅 2025-30 Goals: Learn more about web3 | data analytics | UX/UI | 
 
 ### Connect with me:
 <div align="left">
     <a href="https://www.linkedin.com/in/jnkotey/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.x.com/wickstudioz_gh">
+    <a href="https://www.twitter.com/wickstudioz_gh">
         <img src="https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=x&logoColor=black" alt="Twitter"/>
     </a>
-    <a href="https://discord.com/">
+<!--     <a href="https://discord.com/">
         <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=black&style=for-the-badge"/>
-    </a>
+    </a> -->
 </div>
 <!--
 <div align="left">
